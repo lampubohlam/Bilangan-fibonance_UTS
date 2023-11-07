@@ -22,7 +22,7 @@ pada layout terdapat 3 button yang berfungsi yang memiliki fungsi yang berbeda t
 lalu ada Toast pada button Toast"berfungsi untuk merestart angka atau mengatur ulang angka"<br>
 dan satu lagi ada button berapa angka limit yang ingin dimasukan"ya fungsinya sudah sangat jelas karena saya menulis keterangan pada button seperti itu ,itu berungsi untuk mengatur jumlah limit<br>
 
-<h4>berikut codingannya</h4>
+          <h4>berikut codingannya</h4>
           <?xml version="1.0" encoding="utf-8"?>
           <androidx.constraintlayout.widget.ConstraintLayout
           xmlns:android="http://schemas.android.com/apk/res/android"
