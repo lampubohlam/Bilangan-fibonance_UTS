@@ -1,4 +1,4 @@
-# Bilangan-fibonance_UTS
+# Bilangan-fibonacci_UTS
 
 Nama: Abdul Aziz<br>
 Kelas : TI 22.A.1<br>
